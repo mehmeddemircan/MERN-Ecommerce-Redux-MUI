@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+h5 {
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 6px 8px;
+    display: inline-block;
+    /* border: 1px solid #222; */
+    max-width: 500px
+}
+h6 {
+    padding: 6px;
+
+    border-radius: 10px 
+}
